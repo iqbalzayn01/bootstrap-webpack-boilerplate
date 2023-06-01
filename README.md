@@ -1,4 +1,4 @@
-# :package: Tailwind Webpack Boilerplate
+# :package: Boostrap Webpack Boilerplate
 
 Basic boilerplate to get started slicing so you don't need to think about configuration.
 
@@ -7,7 +7,7 @@ Basic boilerplate to get started slicing so you don't need to think about config
 1. Clone the repository into a new folder for your new project.
 
 ```
-git clone https://github.com/iqbalzayn01/tailwind-webpack-boilerplate.git my-project
+git clone https://github.com/iqbalzayn01/bootstrap-webpack-boilerplate.git my-project
 ```
 
 2. Remove the .git directory
@@ -16,7 +16,7 @@ git clone https://github.com/iqbalzayn01/tailwind-webpack-boilerplate.git my-pro
 rm -rf .git
 ```
 
-## Instalation
+# Instalation
 
 Clone this repo and npm install
 
@@ -50,4 +50,4 @@ npm run build:prod
 - [Babel](https://babeljs.io/)
 - [Sass](https://sass-lang.com/)
 - [PostCSS](https://postcss.org/)
-- [Tailwindcss](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
