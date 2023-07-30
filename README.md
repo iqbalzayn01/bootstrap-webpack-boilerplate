@@ -29,7 +29,7 @@ npm install
 ### Development server
 
 ```
-npm start
+npm run serve
 ```
 
 ### Development build
